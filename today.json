@@ -1,0 +1,21 @@
+
+[
+    {
+        "Title" : "Built the TODO application",
+        "Date" : "02-01-2019",
+        "Discription" : "As per the the requirements built the TODO appication, and perform the storing operations",
+        "Note" : "Get to know about how the table view  performs"
+    },
+    {
+        "Title" : "Unit testing for the TODO application",
+        "Date" : "02-01-2019",
+        "Discription" :"Perform yhe basic Unit testing for the all the reminder operation in the TODO application",
+        "Note" : ""
+    },
+    {
+        "Title" :"UI testing for the TODO application",
+        "Date" : "02-01-2019",
+        "Discription" : "Perform yhe basic UI testing for the TODO application, validate how the flow works",
+        "Note" : ""
+    }
+]

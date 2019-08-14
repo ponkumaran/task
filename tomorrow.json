@@ -1,0 +1,21 @@
+
+[
+    {
+        "Title" : "VALIDATE BOTH THE APPLICATION",
+        "Date" : "03-01-2019",
+        "Discription" :"check the basic work flow for the application and perform the sample tseting ",
+        "Note" : "Check the codes"
+    },
+    {
+        "Title" : "PREPARE THE PRESENTATION",
+        "Date" : "03-01-2019",
+        "Discription" :"provide all the basic and key features in the presentation slides",
+        "Note" : "Design the slide with the green and red backgrounds"
+    },
+    {
+        "Title" :"GET READY FOR PRESENTATION",
+        "Date" : "03-01-2019",
+        "Discription" : "Take all imporatant stuff and documents needed for the presentation",
+        "Note" : "Take WIREFRAMES of the project "
+    }
+]

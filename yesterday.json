@@ -1,0 +1,22 @@
+
+[
+    {
+        "Title" : "Built the Login application",
+        "Date" : "01-01-2019",
+        "Discription" : "As per the the requirements built the login appication, and perform the registration operations",
+        "Note" : "Get to know about how the segue performs"
+    },
+    {
+        "Title" : "Unit testing for the Login application",
+        "Date" : "01-01-2019",
+        "Discription" :"Perform the basic Unit testing for the all the valication operation in the login application",
+        "Note" : "Get to know about the Unit testing basics "
+    },
+    { 
+        "Title" :"UI testing for the Login application",
+        "Date" : "01-01-2019",
+        "Discription" : "Perform the basic UI testing for the login application, validate how the flow works",
+        "Note" : "Get to know about the Ui testing basics "
+    }
+
+]
